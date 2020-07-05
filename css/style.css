@@ -23,5 +23,13 @@ figcaption{
 
 /* ID selector */
 #logo{
-  background-color: blue;
+  background-color: aqua;
+}
+
+/* Descendence selector */
+#logo h1{
+  font-family: "Times New Roman"
+}
+#logo h2{
+  font-family: Sans-Serif;
 }
